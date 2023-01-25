@@ -16,3 +16,4 @@ fastparquet==0.8.3
 FilePath==0.1
 polars==0.15.16
 gensim==4.3.0
+pyspark==3.3.1
