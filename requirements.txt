@@ -14,6 +14,6 @@ protobuf==3.20.1
 pyarrow==10.0.1
 fastparquet==0.8.3
 FilePath==0.1
-polars==0.15.16
+polars==0.15.17
 gensim==4.3.0
 pyspark==3.3.1
